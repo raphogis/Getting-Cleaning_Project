@@ -14,7 +14,7 @@ The R script called run_analysis.R does the following:
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## 3- Code book
-The following two variables have been added to the other variables in the final file (data_sumamry.txt)\
+The following two variables have been added to the other variables in the final file (data_sumamry.txt)
   * SubjectID: the ID of each subject
   * Activity ID: the ID of the activity
 All other variables are the same as in the initial dataset
