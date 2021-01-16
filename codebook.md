@@ -17,9 +17,26 @@ The R script called run_analysis.R does the following:
 The following two variables have been added to the other variables in the final file (data_sumamry.txt)
   * SubjectID: the ID of each subject
   * Activity ID: the ID of the activity
-All other variables are the same as in the initial dataset
+All other variables are the same as in the initial dataset:
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
+* tBodyGyro-XYZ
+* tBodyGyroJerk-XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc-XYZ
+* fBodyAccJerk-XYZ
+* fBodyGyro-XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
 
-
+hese signals were used to estimate variables of the feature vector for each pattern: '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 
 
